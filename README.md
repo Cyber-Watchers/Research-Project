@@ -2,7 +2,7 @@
 
 ### Our Supervisor 
 Dr Kyeong Kang 
-Email:  Kyeong.Kang@uts.edu.au
+- Email:  Kyeong.Kang@uts.edu.au
 
 --------------------------------
 
