@@ -1,9 +1,9 @@
 # Research-Project
 --------------------------------
 ### Group Member: 
-*Xin Song 13379235
-*Hanlin Shi 13411350
-*Ruic Chen 13841604
+|Xin Song| 13379235|Xin.song-1@student.uts.edu.au|
+|Hanlin Shi |13411350||
+|Ruic Chen |13841604||
 
 
 
