@@ -9,7 +9,7 @@ Dr Kyeong Kang
 ### Group Member: 
 |Xin Song| 13379235|Xin.song-1@student.uts.edu.au|
 |---|---|---|
-|Hanlin Shi |13411350||
+|Hanlin Shi |13411350|Hanlin.Shi@student.uts.edu.au|
 |Ruic Chen |13841604|Rui.Chen@student.uts.edu.au|
 
 --------------------------------
